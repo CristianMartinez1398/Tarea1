@@ -1,0 +1,17 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "La primera tarea del periodo Q3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Cristian Josue Martinez Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.0.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
